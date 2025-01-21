@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pratut
-- 👀 I’m interested in ...pentesting    
-- 🌱 I’m currently learning ...linux  
-- 💞️ I’m looking to collaborate on ...machine learing
-- 📫 How to reach me ...prastutbhattarai88@gmail.com
+-  I’m looking to collaborate on ...machine learning... Solving Local Problems of Nepal
+- 📫 How to reach me ...prastutbhattarai44@gmail.com
 
 <!---
 pratut/pratut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
